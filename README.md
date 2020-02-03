@@ -1,1 +1,2 @@
 # Yelp
+In this project I used the Yelp Challenge Dataset to analyze restaurants reviews. The objective of this project was to provide insight to a marketing and design firm. The output is a wordcloud with the most frequent words in five-stars restaurant reviews, and a second wordclound with the most frequent words in three-stars or less reviews restaurants reviews. This project was developed during the Springboard data science career track prep course. 
